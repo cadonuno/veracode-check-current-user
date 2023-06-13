@@ -8,7 +8,7 @@ This script can be used to verify your user permissions and team membership
 
 Clone this repository:
 
-    git clone https://github.com/cadonuno/https://github.com/cadonuno/veracode-check-current-user.git
+    git clone https://github.com/cadonuno/veracode-check-current-user.git
 
 Install dependencies:
 
