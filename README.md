@@ -32,6 +32,7 @@ appropriate file protections in place.
         You can pass -d to get verbose output for the API call
 
 If a credentials file is not created, you can export the following environment variables:
+
     export VERACODE_API_KEY_ID=<YOUR_API_KEY_ID>
     export VERACODE_API_KEY_SECRET=<YOUR_API_KEY_SECRET>
     python user_permissions.py [-d]
